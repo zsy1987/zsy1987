@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🛸 I'm zsy
-- 🚀 I’m currently learning
+- 🚀 I’m currently a graduate student in Ocean University of China
 - 🚅 I’m currently interested in DL, CV, NLP
 - 🛵 I’m an enthusiast of data science
 
