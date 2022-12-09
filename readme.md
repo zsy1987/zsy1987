@@ -10,3 +10,8 @@
 
 - 2021 URPC **4th**
 - 2022 WCBD **27th**
+
+
+[![librauee's github stats](https://github-readme-stats.vercel.app/api?username=zsy1987&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsy1987&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
