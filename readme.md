@@ -14,7 +14,7 @@
 - 🥈 2022 kaggle Feedback Prize - English Language Learning  **55/2654**
 
 
-[![zsy's github stats](https://github-readme-stats.vercel.app/api?username=zsy1987&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![zsy.'s github stats](https://github-readme-stats.vercel.app/api?username=zsy1987&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsy1987&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
