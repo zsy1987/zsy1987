@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🛸 I'm zsy
+- 🛸 I'm Jv Zheng
 - 🚀 I’m currently a graduate student in Ocean University of China
-- 🚅 I’m currently interested in DL, CV, NLP
+- 🚅 I’m currently interested in 3D Vision
 - 🛵 I’m an enthusiast of data science
 
 
