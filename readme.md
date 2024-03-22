@@ -4,7 +4,7 @@
 - 🚀 I’m currently a graduate student in Ocean University of China
 - 🚅 I’m currently interested in 3D Vision
 - 🛵 I’m an enthusiast of data science
-
+- 🎒 This is my [CV site](https://zsy1987.github.io/).
 
 ### Awards 🏆
 
