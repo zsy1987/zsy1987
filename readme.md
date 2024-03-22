@@ -12,7 +12,7 @@
 - 🥉 2021 2021 MICCAI Mitotic Detection Challenge  **6th**
 - 🥈 2022 Wechat Big Data challenge  **27/3204**
 - 🥈 2022 kaggle Feedback Prize - English Language Learning  **55/2654**
-
+- 🥈 2023 GAIIC 大规模新视角渲染  **8/56**
 
 [![zsy.'s github stats](https://github-readme-stats.vercel.app/api?username=zsy1987&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
